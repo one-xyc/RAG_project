@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3d3021-adc6-40f5-9fd2-cee5217be925" name="更改" comment="" />
+    <list default="true" id="4c3d3021-adc6-40f5-9fd2-cee5217be925" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "one-xyc"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/one-xyc/RAG_project.git",
+    "accountId": "44eefbf5-29af-4b11-ac3c-4b00c17e36d9"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -28,21 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.app_file_uploader.executor&quot;: &quot;Run&quot;,
-    &quot;Python.check_chroma.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_history_store.executor&quot;: &quot;Run&quot;,
-    &quot;Python.knowledge_base(1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.konwledge_base.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rag.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vector_stores.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/dev/Project/RAG项目案例&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.app_file_uploader.executor": "Run",
+    "Python.check_chroma.executor": "Run",
+    "Python.file_history_store.executor": "Run",
+    "Python.knowledge_base(1).executor": "Run",
+    "Python.konwledge_base.executor": "Run",
+    "Python.rag.executor": "Run",
+    "Python.vector_stores.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/dev/Project/RAG项目案例",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\dev\Project\RAG项目案例" />
